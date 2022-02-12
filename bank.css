@@ -1,0 +1,33 @@
+.btn-green{
+    background-color: #73cb23;
+    color: white;
+    padding: 5px 30px;
+    border-radius: 8px;
+}
+.height{
+    height: 60vh;
+    background-color: lightgreen;
+}
+.bg-h1{
+    color: mediumpurple;
+}
+.bg-deposit{
+    background-color: yellowgreen;
+    color: white;
+}
+.bg-withdraw{
+    background-color: lightseagreen;
+    color: white;
+}
+.bg-balance{
+    background-color: lightblue;
+    color: white;
+}
+.bg-input-deposit{
+    background-color: darkturquoise;
+    color: white;
+}
+.bg-input-withdraw{
+    background-color: bisque;
+    color: grey;
+}
